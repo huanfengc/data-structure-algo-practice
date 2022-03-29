@@ -6,8 +6,8 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 ## Linked List
 
-Reverse Linked List
-Middle of the Linked List 
+Reverse Linked List \\
+Middle of the Linked List \\
 Intersection of Two Linked ListsLeetcode
 Linked List Cycle (Linked List Cycle II)
 Reverse Linked List IILeetcode

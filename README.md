@@ -6,9 +6,13 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 ## Linked List
 
-[Reverse Linked List](./linked_list/reverse_linked_list.ipynb) \
-Middle of the Linked List \
-Intersection of Two Linked ListsLeetcode \
-Linked List Cycle (Linked List Cycle II) \
-Reverse Linked List IILeetcode \
-Odd Even Linked List 
+- [x] [Reverse Linked List](./linked_list/reverse_linked_list.ipynb) \
+- [] [Middle of the Linked List](./linked_list/middle_of_the_linked_list.ipynb) \
+- [] [Intersection of Two Linked ListsLeetcode](./linked_list/intersection_of_two_linked_lists.ipynb) \
+- [] [Linked List Cycle](./linked_list/linked_list_cycle.ipynb ) \
+- [] [Reverse Linked List II](./linked_list/reverse_linked_list_2.ipynb) \
+- [] [Odd Even Linked List](./linked_list/odd_even_linked_list.ipynb) \
+- [] [Merge Two Sorted Lists.ipynb](./linked_list/merge_two_sorted_lists.ipynb)
+
+
+  

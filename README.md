@@ -19,7 +19,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 ## Hash Table
 #### Easy 
-- [x] Valid Anagram
+- [x] [Valid Anagram](./hash_table/valid_anagram.ipynb)
 
 
   

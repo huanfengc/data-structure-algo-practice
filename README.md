@@ -6,13 +6,13 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 ## Linked List
 
-- [x] [Reverse Linked List](./linked_list/reverse_linked_list.ipynb) \
-- [] [Middle of the Linked List](./linked_list/middle_of_the_linked_list.ipynb) \
-- [] [Intersection of Two Linked ListsLeetcode](./linked_list/intersection_of_two_linked_lists.ipynb) \
-- [] [Linked List Cycle](./linked_list/linked_list_cycle.ipynb ) \
-- [] [Reverse Linked List II](./linked_list/reverse_linked_list_2.ipynb) \
-- [] [Odd Even Linked List](./linked_list/odd_even_linked_list.ipynb) \
-- [] [Merge Two Sorted Lists.ipynb](./linked_list/merge_two_sorted_lists.ipynb)
+- [x] [Reverse Linked List](./linked_list/reverse_linked_list.ipynb)
+- [x] [Middle of the Linked List](./linked_list/middle_of_the_linked_list.ipynb)
+- [x] [Intersection of Two Linked ListsLeetcode](./linked_list/intersection_of_two_linked_lists.ipynb)
+- [x] [Linked List Cycle](./linked_list/linked_list_cycle.ipynb)
+- [x] [Reverse Linked List II](./linked_list/reverse_linked_list_2.ipynb)
+- [x] [Odd Even Linked List](./linked_list/odd_even_linked_list.ipynb)
+- [x] [Merge Two Sorted Lists.ipynb](./linked_list/merge_two_sorted_lists.ipynb)
 
 
   

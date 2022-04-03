@@ -20,6 +20,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 ## Hash Table
 #### Easy 
 - [x] [Valid Anagram](./hash_table/valid_anagram.ipynb)
+- [x] [First Unique Character in a String](./hash_tabel/first_unique_character_in_a_string.ipynb)
 
 
   

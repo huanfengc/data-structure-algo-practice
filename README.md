@@ -8,7 +8,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 #### Easy (3 problems)
 - [x] [Valid Parentheses](./stack_queue/valid_parentheses.ipynb)
-- [x] [Implement Queue Using Stacks](././stack_queue/implement_queue_using_stacks.ipynb)
+- [x] [Implement Queue Using Stacks](./stack_queue/implement_queue_using_stacks.ipynb)
 - [x] [Min Stack](./stack_queue/min_stack.ipynb)
 
 #### Medium (1 problems)

@@ -6,10 +6,11 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 ## Stack & Queue
 
-#### Easy (3 problems)
+#### Easy (4 problems)
 - [x] [Valid Parentheses](./stack_queue/valid_parentheses.ipynb)
 - [x] [Implement Queue Using Stacks](./stack_queue/implement_queue_using_stacks.ipynb)
 - [x] [Min Stack](./stack_queue/min_stack.ipynb)
+- [x] [Max Stack](./stack_queue/max_stack.ipynb)
 
 #### Medium (1 problems)
 - [x] [Evaluate Reverse Polish Notation](./stack_queue/evaluate_reverse_polish_notation.ipynb)

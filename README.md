@@ -22,14 +22,19 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Intersection of Two Linked Lists](./linked_list/intersection_of_two_linked_lists.ipynb)
 - [x] [Linked List Cycle](./linked_list/linked_list_cycle.ipynb)
 - [x] [Merge Two Sorted Lists](./linked_list/merge_two_sorted_lists.ipynb)
+- [x] [Palindrome Linked List](./linked_list/palindrome_linked_list.ipynb)
 #### Medium (2 problems)
 - [x] [Reverse Linked List II](./linked_list/reverse_linked_list_2.ipynb)
 - [x] [Odd Even Linked List](./linked_list/odd_even_linked_list.ipynb)
+- [x] [Add Two Numbers](./linked_list/add_two_numbers.ipynb)
+- [x] [Reorder List](./linked_list/reorder_list.ipynb)
+- [x] [Swap Nodes in Pairs](./linked_list/swap_nodes_in_pairs.ipynb)
 
 ## Hash Table
 #### Easy 
 - [x] [Valid Anagram](./hash_table/valid_anagram.ipynb)
 - [x] [First Unique Character in a String](./hash_table/first_unique_character_in_a_string.ipynb)
+- [x] [Roman to Integer](./hash_table/roman_to_integer.ipynb)
 
 
   

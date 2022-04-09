@@ -31,7 +31,9 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Swap Nodes in Pairs](./linked_list/swap_nodes_in_pairs.ipynb)
 
 ## Hash Table
-#### Easy (3 problems) 
+#### Easy (5 problems) 
+- [x] [Two Sum](./hash_table/two_sum.ipynb)
+- [x] [Contains Duplicate](./hash_table/contains_duplicate.ipynb)
 - [x] [Valid Anagram](./hash_table/valid_anagram.ipynb)
 - [x] [First Unique Character in a String](./hash_table/first_unique_character_in_a_string.ipynb)
 - [x] [Roman to Integer](./hash_table/roman_to_integer.ipynb)

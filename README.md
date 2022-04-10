@@ -12,8 +12,10 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Min Stack](./stack_queue/min_stack.ipynb)
 - [x] [Max Stack](./stack_queue/max_stack.ipynb)
 
-#### Medium (1 problems)
+#### Medium (3 problems)
 - [x] [Evaluate Reverse Polish Notation](./stack_queue/evaluate_reverse_polish_notation.ipynb)
+- [x] [Asteroid Collision](./stack_queue/asteroid_collision.ipynb)
+- [x] [Remove All Adjacent Duplicates in String II](./stack_queue/remove_all_adjacent_duplicates_in_string_II.ipynb)
 
 ## Linked List
 #### Easy (7 problems)

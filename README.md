@@ -6,16 +6,18 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 ## Stack & Queue
 
-#### Easy (4 problems)
+#### Easy (5 problems)
 - [x] [Valid Parentheses](./stack_queue/valid_parentheses.ipynb)
 - [x] [Implement Queue Using Stacks](./stack_queue/implement_queue_using_stacks.ipynb)
 - [x] [Min Stack](./stack_queue/min_stack.ipynb)
 - [x] [Max Stack](./stack_queue/max_stack.ipynb)
+- [x] [Moving Average from Data Stream](./stack_queue/moving_average_from_data_stream.ipynb)
 
-#### Medium (3 problems)
+#### Medium (4 problems)
 - [x] [Evaluate Reverse Polish Notation](./stack_queue/evaluate_reverse_polish_notation.ipynb)
 - [x] [Asteroid Collision](./stack_queue/asteroid_collision.ipynb)
 - [x] [Remove All Adjacent Duplicates in String II](./stack_queue/remove_all_adjacent_duplicates_in_string_II.ipynb)
+- [x] [First Unique Number](./stack_queue/first_unique_number.ipynb)
 
 ## Linked List
 #### Easy (7 problems)

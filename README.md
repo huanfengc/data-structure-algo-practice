@@ -13,11 +13,14 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Max Stack](./stack_queue/max_stack.ipynb)
 - [x] [Moving Average from Data Stream](./stack_queue/moving_average_from_data_stream.ipynb)
 
-#### Medium (4 problems)
+#### Medium (7 problems)
 - [x] [Evaluate Reverse Polish Notation](./stack_queue/evaluate_reverse_polish_notation.ipynb)
 - [x] [Asteroid Collision](./stack_queue/asteroid_collision.ipynb)
 - [x] [Remove All Adjacent Duplicates in String II](./stack_queue/remove_all_adjacent_duplicates_in_string_II.ipynb)
 - [x] [First Unique Number](./stack_queue/first_unique_number.ipynb)
+- [x] [Design Browser History](./stack_queue/design_browser_history.ipynb)
+- [x] [Design Hit Counter](./stack_queue/design_hit_counter.ipynb)
+- [x] [Zigzag Iterator](./stack_queue/zigzag_iterator.ipynb)
 
 ## Linked List
 #### Easy (7 problems)
@@ -44,6 +47,10 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [First Unique Character in a String](./hash_table/first_unique_character_in_a_string.ipynb)
 - [x] [Roman to Integer](./hash_table/roman_to_integer.ipynb)
 - [x] [Longest Palindrome](./hash_table/longest_palindrome.ipynb)
+
+## Binary Search
+#### Easy (1 problem)
+- [x] [First Bad Version](./binary_search/first_bad_version.ipynb)
 
 
   

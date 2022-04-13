@@ -14,7 +14,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Valid Parentheses](./stack_queue/valid_parentheses.ipynb)
 - [x] [Moving Average from Data Stream](./stack_queue/moving_average_from_data_stream.ipynb)
 
-#### Medium (7 problems)
+#### Medium (8 problems)
 - [x] [Evaluate Reverse Polish Notation](./stack_queue/evaluate_reverse_polish_notation.ipynb)
 - [x] [Asteroid Collision](./stack_queue/asteroid_collision.ipynb)
 - [x] [Remove All Adjacent Duplicates in String II](./stack_queue/remove_all_adjacent_duplicates_in_string_II.ipynb)
@@ -22,6 +22,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Design Browser History](./stack_queue/design_browser_history.ipynb)
 - [x] [Design Hit Counter](./stack_queue/design_hit_counter.ipynb)
 - [x] [Zigzag Iterator](./stack_queue/zigzag_iterator.ipynb)
+- [x] [Minimum Remove to Make Valid Parentheses](./stack_queue/minimum_remove_to_make_valid_parentheses.ipynb)
 
 ## Linked List
 #### Easy (7 problems)

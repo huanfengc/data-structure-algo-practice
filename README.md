@@ -2,7 +2,7 @@
 
 This repository contains selected problems from LeetCode. They are used for learning and practising various data structures and algorithms.
 
-Each problem is solved in a couple of different ways among which the time and space complexities are analysed. Without any doubt, most of the solutions (if not 100%) to these problems have been worked out (for a long long) by the community and shared in forums or videos online. The owner of this repository is grateful for learning and getting inspiration from all these resources.
+Each problem is solved in a couple of different ways among which the time and space complexities are analysed. Without any doubt, most of the solutions (if not 100%) to these problems have been worked out (for a long time) by the community and shared in forums or videos online. The owner of this repository is grateful for learning and getting inspiration from all these resources.
 
 ## Stack & Queue
 

@@ -6,11 +6,12 @@ Each problem is solved in a couple of different ways among which the time and sp
 
 ## Stack & Queue
 
-#### Easy (5 problems)
-- [x] [Valid Parentheses](./stack_queue/valid_parentheses.ipynb)
+#### Easy (6 problems)
 - [x] [Implement Queue Using Stacks](./stack_queue/implement_queue_using_stacks.ipynb)
+- [x] [Implement Stack Using Queues](./stack_queue/implement_stack_using_queues.ipynb)
 - [x] [Min Stack](./stack_queue/min_stack.ipynb)
 - [x] [Max Stack](./stack_queue/max_stack.ipynb)
+- [x] [Valid Parentheses](./stack_queue/valid_parentheses.ipynb)
 - [x] [Moving Average from Data Stream](./stack_queue/moving_average_from_data_stream.ipynb)
 
 #### Medium (7 problems)
@@ -47,6 +48,13 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [First Unique Character in a String](./hash_table/first_unique_character_in_a_string.ipynb)
 - [x] [Roman to Integer](./hash_table/roman_to_integer.ipynb)
 - [x] [Longest Palindrome](./hash_table/longest_palindrome.ipynb)
+- [x] [Intersection of Two Arrays](./hash_table/intersection_of_two_arrays.ipynb)
+- [x] [Intersection of Ttwo Arrays II](./hash_tabel/intersection_of_two_arrays_II.ipynb)
+
+#### Medium (3 problems)
+- [x] [Group Anagrams](./hash_table/group_anagrams.ipynb)
+- [x] [Longest Consecutive Sequence](./hash_table/longest_consecutive_sequence.ipynb)
+- [x] [Set Matrix Zeroes](./hash_table/set_matrix_zeroes.ipynb)
 
 ## Binary Search
 #### Easy (1 problem)

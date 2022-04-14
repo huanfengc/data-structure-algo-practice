@@ -42,7 +42,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Swap Nodes in Pairs](./linked_list/swap_nodes_in_pairs.ipynb)
 
 ## Hash Table
-#### Easy (6 problems) 
+#### Easy (9 problems) 
 - [x] [Two Sum](./hash_table/two_sum.ipynb)
 - [x] [Contains Duplicate](./hash_table/contains_duplicate.ipynb)
 - [x] [Valid Anagram](./hash_table/valid_anagram.ipynb)
@@ -50,12 +50,15 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Roman to Integer](./hash_table/roman_to_integer.ipynb)
 - [x] [Longest Palindrome](./hash_table/longest_palindrome.ipynb)
 - [x] [Intersection of Two Arrays](./hash_table/intersection_of_two_arrays.ipynb)
-- [x] [Intersection of Ttwo Arrays II](./hash_tabel/intersection_of_two_arrays_II.ipynb)
+- [x] [Intersection of Ttwo Arrays II](./hash_table/intersection_of_two_arrays_II.ipynb)
+- [x] [Unique Number of Occurrences](./hash_table/unique_number_of_occurrences.ipynb)
 
-#### Medium (3 problems)
+#### Medium (5 problems)
 - [x] [Group Anagrams](./hash_table/group_anagrams.ipynb)
 - [x] [Longest Consecutive Sequence](./hash_table/longest_consecutive_sequence.ipynb)
 - [x] [Set Matrix Zeroes](./hash_table/set_matrix_zeroes.ipynb)
+- [x] [Insert Delete GetRandom O(1)](./hash_table/insert_delete_getrandom_o1.ipynb)
+- [x] [Bulls and Cows](./hash_table/bulls_and_cows.ipynb)
 
 ## Binary Search
 #### Easy (1 problem)

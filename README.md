@@ -5,12 +5,12 @@ This repository contains selected problems from LeetCode. They are used for lear
 Each problem is solved in a couple of different ways among which the time and space complexities are analysed. Without any doubt, most of the solutions (if not 100%) to these problems have been worked out (for a long time) by the community and shared in forums or videos online. The owner of this repository is grateful for learning and getting inspiration from all these resources.
 
 ## Table of Content
-* [Stack Queue](#stack-queue)
+* [Stack & Queue](#stack-queue)
 * [Linked List](#linked-list)
 * [Hash Table](#hash-table)
 * [Binary Search](#binary-search)
 
-## Stack, Queue
+## Stack & Queue
 
 #### Easy (6 problems)
 - [x] [Implement Queue Using Stacks](./stack_queue/implement_queue_using_stacks.ipynb)

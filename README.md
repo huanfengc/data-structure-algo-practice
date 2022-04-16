@@ -69,7 +69,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Search in Rotated Sorted Array](./binary_search/search_in_rotated_sorted_array.ipynb)
 - [x] [Find Peak Element](./binary_search/find_peak_element.ipynb)
 - [x] [Search a 2D Matrix](./binary_search/search_a_2d_matrix.ipynb)
-- [ ] [Search a 2D Matrix II](./binary_search/search_a_2d_matrix_II.ipynb)
+- [x] [Search a 2D Matrix II](./binary_search/search_a_2d_matrix_II.ipynb)
 
 
   

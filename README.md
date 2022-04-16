@@ -64,5 +64,12 @@ Each problem is solved in a couple of different ways among which the time and sp
 #### Easy (1 problem)
 - [x] [First Bad Version](./binary_search/first_bad_version.ipynb)
 
+#### Medium (2 problem)
+- [x] [Find First and Last Position of Element in Sorted Array](./binary_search/find_first_and_last_position_of_element_in_sorted_array.ipynb)
+- [x] [Search in Rotated Sorted Array](./binary_search/search_in_rotated_sorted_array.ipynb)
+- [x] [Find Peak Element](./binary_search/find_peak_element.ipynb)
+- [x] [Search a 2D Matrix](./binary_search/search_a_2d_matrix.ipynb)
+- [ ] [Search a 2D Matrix II](./binary_search/search_a_2d_matrix_II.ipynb)
+
 
   

@@ -4,8 +4,11 @@ This repository contains selected problems from LeetCode. They are used for lear
 
 Each problem is solved in a couple of different ways among which the time and space complexities are analysed. Without any doubt, most of the solutions (if not 100%) to these problems have been worked out (for a long time) by the community and shared in forums or videos online. The owner of this repository is grateful for learning and getting inspiration from all these resources.
 
-* [Stack & Queue](#stack-&queue)
+## Table of Content
+* [Stack & Queue](#stack-&-queue)
 * [Linked List](#linked-list)
+* [Hash Table](#hash-table)
+* [Binary Search](#binary-search)
 
 ## Stack & Queue
 
@@ -64,15 +67,23 @@ Each problem is solved in a couple of different ways among which the time and sp
 - [x] [Bulls and Cows](./hash_table/bulls_and_cows.ipynb)
 
 ## Binary Search
-#### Easy (1 problem)
+#### Easy (3 problem)
 - [x] [First Bad Version](./binary_search/first_bad_version.ipynb)
+- [x] [Search Insert Position](./binary_search/search_insert_position.ipynb)
+- [x] [Sqrt(x)](./binary_search/sqrt_x.ipynb)
 
-#### Medium (5 problem)
+#### Medium (8 problem)
 - [x] [Find First and Last Position of Element in Sorted Array](./binary_search/find_first_and_last_position_of_element_in_sorted_array.ipynb)
 - [x] [Search in Rotated Sorted Array](./binary_search/search_in_rotated_sorted_array.ipynb)
 - [x] [Find Peak Element](./binary_search/find_peak_element.ipynb)
 - [x] [Search a 2D Matrix](./binary_search/search_a_2d_matrix.ipynb)
 - [x] [Search a 2D Matrix II](./binary_search/search_a_2d_matrix_II.ipynb)
+- [x] [Capacity To Ship Packages Within D Days](./binary_search/capacity_to_ship_packages_within_d_days.ipynb)
+- [x] [Missing Element in Sorted Array](./binary_search/missing_element_in_sorted_array.ipynb)
+- [x] [Single Element in a Sorted Array](./binary_search/single_element_in_a_sorted_array.ipynb) 
+
+#### Hard (1 problem)
+- [x] [Split Array Largest Sum](./binary_search/split_array_largest_sum.ipynb)
 
 
   

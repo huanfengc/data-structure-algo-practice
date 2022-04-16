@@ -10,7 +10,7 @@ Each problem is solved in a couple of different ways among which the time and sp
 * [Hash Table](#hash-table)
 * [Binary Search](#binary-search)
 
-## Stack & Queue
+## Stack, Queue
 
 #### Easy (6 problems)
 - [x] [Implement Queue Using Stacks](./stack_queue/implement_queue_using_stacks.ipynb)
